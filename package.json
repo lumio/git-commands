@@ -5,6 +5,9 @@
   "main": "index.js",
   "repository": "git@github.com:lumio/git-commands.git",
   "author": "Benjamin Falk <benjamin.falk@cyanjoe.com>",
-  "license": "GPLv3",
-  "private": false
+  "license": "GPL-3.0",
+  "private": false,
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
 }
