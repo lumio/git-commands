@@ -1,0 +1,10 @@
+{
+  "name": "git-commands",
+  "version": "1.0.0",
+  "description": "A collection of useful git shortcuts",
+  "main": "index.js",
+  "repository": "git@github.com:lumio/git-commands.git",
+  "author": "Benjamin Falk <benjamin.falk@cyanjoe.com>",
+  "license": "GPLv3",
+  "private": false
+}
