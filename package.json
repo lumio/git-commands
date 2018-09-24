@@ -8,6 +8,10 @@
   "license": "GPL-3.0",
   "private": false,
   "dependencies": {
-    "blessed": "^0.1.81"
+    "chalk": "^2.4.1",
+    "has-unicode": "^2.0.1",
+    "slice-ansi": "^1.0.0",
+    "string-width": "^2.1.1",
+    "window-size": "^1.1.1"
   }
 }
