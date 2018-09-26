@@ -3,6 +3,7 @@ dependencies:
   chalk: 2.4.1
   has-unicode: 2.0.1
   keypress: 0.2.1
+  rxjs: 6.3.3
   slice-ansi: 1.0.0
   string-width: 2.1.1
   window-size: 1.1.1
@@ -133,6 +134,14 @@ packages:
       node: '>=0.10.0'
     resolution:
       integrity: sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA==
+  /rxjs/6.3.3:
+    dependencies:
+      tslib: 1.9.3
+    dev: false
+    engines:
+      npm: '>=2.0.0'
+    resolution:
+      integrity: sha512-JTWmoY9tWCs7zvIk/CvRjhjGaOd+OVBM987mxFo+OW66cGpdKjZcpmc74ES1sB//7Kl/PAe8+wEakuhG4pcgOw==
   /slice-ansi/1.0.0:
     dependencies:
       is-fullwidth-code-point: 2.0.0
@@ -166,6 +175,10 @@ packages:
       node: '>=4'
     resolution:
       integrity: sha512-QjVjwdXIt408MIiAqCX4oUKsgU2EqAGzs2Ppkm4aQYbjm+ZEWEcW4SfFNTr4uMNZma0ey4f5lgLrkB0aX0QMow==
+  /tslib/1.9.3:
+    dev: false
+    resolution:
+      integrity: sha512-4krF8scpejhaOgqzBEcGM7yDIEfi0/8+8zDRZhNZZ2kjmHJ4hv3zCbQWxoJGz1iw5U0Jl0nma13xzHXcncMavQ==
   /window-size/1.1.1:
     dependencies:
       define-property: 1.0.0
@@ -184,6 +197,7 @@ specifiers:
   chalk: ^2.4.1
   has-unicode: ^2.0.1
   keypress: ^0.2.1
+  rxjs: ^6.3.3
   slice-ansi: ^1.0.0
   string-width: ^2.1.1
   window-size: ^1.1.1
