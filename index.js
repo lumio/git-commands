@@ -3,8 +3,14 @@ const Terminal = require( './lib/terminal' );
 
 const t = new Terminal();
 
-t.start();
-t.render( [
-  chalk.cyan( 'GOR-1' ) + ' A rather long commit message that exceeds th'
-  + chalk.bgRed( 'e 50 char limit' )
-] );
+( async () => {
+  await t.start();
+  const { cursorPos } = t.state;
+  console.log( cursorPos );
+
+  t.render( [
+    chalk.cyan( 'GITC-1' ) + ' A rather long commit message that exceeds th'
+    + chalk.bgRed( 'e 50 char limit' )
+  ] );
+  t.setCursorPos( cursorPos.row, cursorPos.col );
+} )();
