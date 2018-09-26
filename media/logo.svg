@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<g>
-	<polygon fill="#331000" points="332,402 180,402 180,146 332,112 	"/>
-</g>
-<g>
-	<g>
-		<defs>
-			<polygon id="SVGID_1_" points="332,402 180,402 180,146 332,112 			"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-		<g clip-path="url(#SVGID_2_)">
-			<line fill="none" stroke="#966060" stroke-miterlimit="10" x1="158" y1="241" x2="358" y2="196"/>
-			<line fill="none" stroke="#966060" stroke-miterlimit="10" x1="158" y1="241" x2="358" y2="196"/>
-			<line fill="none" stroke="#966060" stroke-width="1.25" stroke-miterlimit="10" x1="158" y1="257" x2="358" y2="212"/>
-			<line fill="none" stroke="#966060" stroke-width="1.5625" stroke-miterlimit="10" x1="158" y1="273" x2="358" y2="228"/>
-			<line fill="none" stroke="#966060" stroke-width="1.9531" stroke-miterlimit="10" x1="158" y1="289" x2="358" y2="244"/>
-			<line fill="none" stroke="#966060" stroke-width="2.4414" stroke-miterlimit="10" x1="158" y1="305" x2="358" y2="260"/>
-			<line fill="none" stroke="#966060" stroke-width="3.0518" stroke-miterlimit="10" x1="158" y1="321" x2="358" y2="276"/>
-			<line fill="none" stroke="#966060" stroke-width="3.8147" stroke-miterlimit="10" x1="158" y1="337" x2="358" y2="292"/>
-			<line fill="none" stroke="#966060" stroke-width="4.7684" stroke-miterlimit="10" x1="158" y1="353" x2="358" y2="308"/>
-			<line fill="none" stroke="#966060" stroke-width="5.9605" stroke-miterlimit="10" x1="158" y1="369" x2="358" y2="324"/>
-			<line fill="none" stroke="#966060" stroke-width="7.4506" stroke-miterlimit="10" x1="158" y1="385" x2="358" y2="340"/>
-			<line fill="none" stroke="#966060" stroke-width="9.3132" stroke-miterlimit="10" x1="158" y1="401" x2="358" y2="356"/>
-			<line fill="none" stroke="#966060" stroke-width="11.6415" stroke-miterlimit="10" x1="158" y1="417" x2="358" y2="372"/>
-			<line fill="none" stroke="#966060" stroke-width="14.5519" stroke-miterlimit="10" x1="158" y1="433" x2="358" y2="388"/>
-			<line fill="none" stroke="#966060" stroke-width="15" stroke-miterlimit="10" x1="158" y1="449" x2="358" y2="404"/>
-			<line fill="none" stroke="#966060" stroke-width="22.7374" stroke-miterlimit="10" x1="158" y1="465" x2="358" y2="420"/>
-		</g>
-	</g>
-</g>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  viewBox="0 0 512 512" enable-background="new 0 0 512 512"
+  xml:space="preserve">
+  <g>
+    <polygon fill="#331000" points="332,402 180,402 180,146 332,112"/>
+  </g>
+  <g>
+    <g>
+      <defs>
+        <polygon id="LOGO_SVGID_1_" points="332,402 180,402 180,146 332,112"/>
+      </defs>
+      <clipPath id="LOGO_SVGID_2_">
+        <use xlink:href="#LOGO_SVGID_1_" overflow="visible"/>
+      </clipPath>
+      <g clip-path="url(#LOGO_SVGID_2_)">
+        <line fill="none" stroke="#966060" stroke-miterlimit="10" x1="158" y1="241" x2="358" y2="196"/>
+        <line fill="none" stroke="#966060" stroke-miterlimit="10" x1="158" y1="241" x2="358" y2="196"/>
+        <line fill="none" stroke="#966060" stroke-width="1.25" stroke-miterlimit="10" x1="158" y1="257" x2="358" y2="212"/>
+        <line fill="none" stroke="#966060" stroke-width="1.5625" stroke-miterlimit="10" x1="158" y1="273" x2="358" y2="228"/>
+        <line fill="none" stroke="#966060" stroke-width="1.9531" stroke-miterlimit="10" x1="158" y1="289" x2="358" y2="244"/>
+        <line fill="none" stroke="#966060" stroke-width="2.4414" stroke-miterlimit="10" x1="158" y1="305" x2="358" y2="260"/>
+        <line fill="none" stroke="#966060" stroke-width="3.0518" stroke-miterlimit="10" x1="158" y1="321" x2="358" y2="276"/>
+        <line fill="none" stroke="#966060" stroke-width="3.8147" stroke-miterlimit="10" x1="158" y1="337" x2="358" y2="292"/>
+        <line fill="none" stroke="#966060" stroke-width="4.7684" stroke-miterlimit="10" x1="158" y1="353" x2="358" y2="308"/>
+        <line fill="none" stroke="#966060" stroke-width="5.9605" stroke-miterlimit="10" x1="158" y1="369" x2="358" y2="324"/>
+        <line fill="none" stroke="#966060" stroke-width="7.4506" stroke-miterlimit="10" x1="158" y1="385" x2="358" y2="340"/>
+        <line fill="none" stroke="#966060" stroke-width="9.3132" stroke-miterlimit="10" x1="158" y1="401" x2="358" y2="356"/>
+        <line fill="none" stroke="#966060" stroke-width="11.6415" stroke-miterlimit="10" x1="158" y1="417" x2="358" y2="372"/>
+        <line fill="none" stroke="#966060" stroke-width="14.5519" stroke-miterlimit="10" x1="158" y1="433" x2="358" y2="388"/>
+        <line fill="none" stroke="#966060" stroke-width="15" stroke-miterlimit="10" x1="158" y1="449" x2="358" y2="404"/>
+        <line fill="none" stroke="#966060" stroke-width="22.7374" stroke-miterlimit="10" x1="158" y1="465" x2="358" y2="420"/>
+      </g>
+    </g>
+  </g>
 </svg>
