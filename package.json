@@ -6,5 +6,11 @@
   "repository": "git@github.com:lumio/git-commands.git",
   "author": "Benjamin Falk <benjamin.falk@cyanjoe.com>",
   "license": "GPL-3.0",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "slice-ansi": "^1.0.0",
+    "string-width": "^2.1.1",
+    "wrap-ansi": "^4.0.0"
+  }
 }
