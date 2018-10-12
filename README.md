@@ -9,7 +9,9 @@ const defaultOptions = {
     'text': [],
     'issue-number': [ 'cyan' ],
     'initial-issue-number': [ 'cyan', 'bold', 'underline' ],
-    'smart-command': [ 'underline' ] ,
+    'smart-command': [ 'underline' ],
+    'excess': [ [ 'hex', '#fff' ], [ 'bgHex', '#ef2f6f' ] ],
   },
+  limit: 0,
 };
 ```
