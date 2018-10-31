@@ -8,7 +8,9 @@
   "license": "GPL-3.0",
   "private": false,
   "dependencies": {
+    "ansi-escapes": "^3.1.0",
     "chalk": "^2.4.1",
+    "keypress": "^0.2.1",
     "slice-ansi": "^1.0.0",
     "string-width": "^2.1.1",
     "wrap-ansi": "^4.0.0"
